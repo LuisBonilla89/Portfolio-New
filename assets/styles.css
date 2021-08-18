@@ -51,6 +51,7 @@ footer {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
+  grid-gap: 20px;
 }
 section .title {
   position: relative;
